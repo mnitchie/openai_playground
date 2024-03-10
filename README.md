@@ -12,3 +12,12 @@ Just playing around with the OpenAI api
 
 * [OpenAI API Docs](https://platform.openai.com/docs/overview)
 * [OpenAI API Python Client](https://github.com/openai/openai-python)
+* [OpenAI Cookbook](https://github.com/openai/openai-cookbook?tab=readme-ov-file)
+
+## Other AI learning resources
+
+* [LLM Courses](https://github.com/mlabonne/llm-course)
+* [Generative AI for beginners](https://github.com/microsoft/generative-ai-for-beginners)
+* [DocsGPT](https://docsgpt.arc53.com/) - Really cool.
+* [Chat With Github Repo](https://github.com/peterw/Chat-with-Github-Repo)
+* [Example ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
